@@ -33,11 +33,11 @@ Este proyecto demuestra la comunicación entre dos servidores utilizando WebSock
 
 1. Inicia el Servidor A:
    ```bash
-   node servidor\ A/server_a.js
+   node server_a.js
    ```
 2. Inicia el Servidor B:
    ```bash
-   node servidor\ B/server_b.js
+   node server_b.js
    ```
 
 ## Endpoints
